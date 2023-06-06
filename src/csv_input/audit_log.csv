@@ -1,0 +1,64 @@
+Action | Timestamp
+Loaded data | 2023-05-23 11:52:57
+Payment: { Client: Gabriel Baker, ID: C16 } | Payment Amount: $950.0 | 2023-05-23 11:53:29
+Saved data | 2023-05-23 11:53:38
+Loaded data | 2023-05-24 00:28:45
+Inserted Doctor: { D7, Dr. Matinca, matinca@gmail.com, [] } | 2023-05-24 00:29:28
+Inserted Nurse: { N7, Gabriela, gabriela@gmail.com, 1 years of experience } | 2023-05-24 00:29:50
+Inserted Client: { C20, Paul Berciu, 15 years old, Funny } | 2023-05-24 00:30:06
+Inserted Appointment: { A0022, Eduard, Paul Berciu, 2022/05/30, Minecraft } | 2023-05-24 00:31:22
+Deleted Client: { C19, Catalin, 69 years old, Gamer } | 2023-05-24 00:31:47
+Deleted Staff: { N7, Gabriela, NURSE, gabriela@gmail.com } | 2023-05-24 00:32:15
+Deleted Appointment: { A0022, Eduard, Paul Berciu, 2022/05/30, Minecraft } | 2023-05-24 00:32:31
+Completed Appointment: { A19, Dr. Nguyen, Grace Wright, 2022/09/13, Bone Density Scan } | Cost: $1000.0 | 2023-05-24 00:33:11
+Payment: { Client: Olivia Green, ID: C17 } | Payment Amount: $2000.0 | 2023-05-24 00:33:56
+Saved data | 2023-05-24 00:34:04
+Loaded data | 2023-05-24 12:10:46
+Completed Appointment: { A21, Dr. Johnson, Olivia Green, 2022/09/27, Lupus Treatment } | Cost: $500.0 | 2023-05-24 12:10:53
+Payment: { Client: Olivia Green, ID: C17 } | Payment Amount: $500.0 | 2023-05-24 12:11:19
+Saved data | 2023-05-24 12:11:26
+Loaded data | 2023-05-25 10:51:07
+Completed Appointment: { A18, Dr. Lee, Alexander Hall, 2022/09/08, Lung Function Test } | Cost: $6969.0 | 2023-05-25 10:52:36
+Payment: { Client: Alexander Hall, ID: C14 } | Payment Amount: $9469.0 | 2023-05-25 10:54:11
+Saved data | 2023-05-25 10:54:21
+Inserted Doctor: { D9, Dr. Murariu Andrei, andrei@gmail.com, [Physiotherapist] } | 2023-06-03 15:02:13
+Inserted Appointment: { A21, William Davis, Ana Maria, 2023/07/05, Monthly check-up } | 2023-06-03 15:03:22
+Completed Appointment: { A21, William Davis, Ana Maria, 2023/07/05, Monthly check-up } | Cost: $100.0 | 2023-06-03 15:03:42
+Payment: { Client: Ana Maria, ID: C20 } | Payment Amount: $100.0 | 2023-06-03 15:04:01
+Saved data | 2023-06-03 15:05:58
+Loaded data | 2023-06-03 16:15:34
+Updated Client Record: { Client: Paul Berciu, ID: C19 } | Medical Reords updated! | 2023-06-03 16:16:50
+Saved data | 2023-06-03 16:17:09
+Loaded data | 2023-06-06 10:23:22
+Loaded data | 2023-06-06 10:23:38
+Loaded data | 2023-06-06 10:27:06
+Loaded data | 2023-06-06 10:27:16
+Loaded data | 2023-06-06 10:29:14
+Loaded data | 2023-06-06 10:29:35
+Loaded data | 2023-06-06 10:31:25
+Loaded data | 2023-06-06 10:39:53
+Loaded data | 2023-06-06 10:40:02
+Inserted Doctor: { D10, Dr. Serban, serban@gmail.com, [Gamer] } | 2023-06-06 10:40:39
+Saved data | 2023-06-06 10:40:47
+Loaded data | 2023-06-06 11:10:50
+Loaded data | 2023-06-06 11:11:28
+Loaded data | 2023-06-06 11:11:45
+Loaded data | 2023-06-06 11:19:54
+Loaded data | 2023-06-06 11:20:25
+Loaded data | 2023-06-06 11:23:56
+Loaded data | 2023-06-06 11:24:57
+Loaded data | 2023-06-06 11:25:42
+Loaded data | 2023-06-06 11:26:26
+Loaded data | 2023-06-06 11:26:28
+Loaded data | 2023-06-06 11:26:31
+Loaded data | 2023-06-06 11:28:05
+Loaded data | 2023-06-06 11:28:30
+Loaded data | 2023-06-06 11:28:54
+Loaded data | 2023-06-06 11:29:06
+Loaded data | 2023-06-06 11:30:20
+Loaded data | 2023-06-06 11:30:49
+Loaded data | 2023-06-06 11:31:32
+Loaded data | 2023-06-06 11:31:55
+Loaded data | 2023-06-06 11:34:10
+Loaded data | 2023-06-06 11:34:49
+Loaded data | 2023-06-06 11:35:05
