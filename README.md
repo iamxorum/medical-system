@@ -1,19 +1,49 @@
-# medical-system
+# Medical Management System
 -----------------------------------------
-Users can carry out a number of procedures relating to medical staff, patients, clients, appointments, and medical records using this Java program, which is a medical management system. It offers a menu-based command-line interface that is user-friendly. A number of capabilities are available through the program, including the ability to view all medical personnel, patients, appointments, nurses, and doctors. Additionally, users get access to staff schedules, can add new physicians, nurses, and patients, can make new appointments, can remove patients, staff, and appointments, can finish appointments, can handle client payments, and can manage bank balances.
+This project is a Medical Management System implemented in Java. It provides a command-line interface (CLI) with a simple graphical user interface (GUI) for easy interaction. The system allows users to manage medical staff, clients, appointments, and medical records efficiently.
 
-The application also enables users to print medical records for patients as well as medical professionals. Additionally, updating client medical records is supported. The system gives users the opportunity to save session changes and reload data from a file.
+## Features
 
-Users can choose options by typing the corresponding number from the displayed menu to move through the software. The program makes use of many colors to improve readability and offer an aesthetically pleasing user interface.
+The Medical Management System offers the following features:
 
-This medical management system is intended to assist effective management of medical staff, patients, and appointments while streamlining administrative activities. It provides adaptability, ease, and trustworthy record-keeping for medical practitioners or facilities.
+1. View all medical staff: Users can view a list of all medical staff members, including doctors and nurses.
+2. View all clients: Users can access a comprehensive list of all clients registered in the system.
+3. View all appointments: Users can see a complete overview of all scheduled appointments.
+4. View all nurses: Users can retrieve a list of all registered nurses.
+5. View all doctors: Users can view a list of all registered doctors.
+6. View staff schedule: Users can check the schedule of medical staff, including doctors and nurses.
+7. Insert new Doctor: Users can add a new doctor to the system.
+8. Insert new Nurse: Users can register a new nurse in the system.
+9. Insert new Client: Users can add a new client to the system.
+10. Create new Appointment: Users can schedule a new appointment for a client.
+11. Delete client: Users can remove a client from the system.
+12. Delete staff: Users can delete a staff member from the system.
+13. Delete appointment: Users can cancel or delete an existing appointment.
+14. Complete appointment: Users can mark an appointment as completed.
+15. Client payment: Users can record client payments for services rendered.
+16. Bank amount: Users can retrieve information about the current bank amount.
+17. Print Medical Records: Users can print medical records for all clients.
+18. Print client Medical Records: Users can print medical records for a specific client.
+19. Update client Medical Records: Users can update medical records for a specific client.
+20. Reload from file: Users can reload the system data from a file.
+21. Save: Users can save the current system data to a file.
+0. Exit: Users can exit the program.
 
-Instructions:
-1. Use a Java development environment to run the application, or build and run the source code.
-2. To carry out different actions, follow the on-screen menu options.
-3. To perform the required action, enter the relevant number.
-4. Examine the various features and successfully handle the medical staff, patients, appointments, and records.
-5. Use option 21 to save any alterations you make throughout the session.
-6. The application can be stopped by choosing option 0.
+## Usage
 
-**Note: To function properly, this program needs the Java programming environment.**
+To run the Medical Management System, follow these steps:
+
+1. Ensure you have Java installed on your system.
+2. Clone the repository to your local machine.
+3. Open a command-line interface and navigate to the project directory.
+4. Compile the Java files using the command: `javac Main.java`.
+5. Run the program using the command: `java Main`.
+6. The system will start, providing a menu for various operations.
+7. Use the GUI to interact with the system easily and efficiently.
+8. Select the desired option by entering the corresponding number or using the GUI buttons.
+9. Follow the prompts and instructions provided by the system.
+10. Enjoy managing your medical records and appointments seamlessly!
+
+Feel free to explore the code and customize it to fit your specific requirements. Contributions and suggestions are welcome. If you encounter any issues or have questions, please submit them via the GitHub issue tracker.
+
+**Note:** **_This program includes a simple graphical user interface (GUI) to enhance user experience and make interaction more intuitive._**
